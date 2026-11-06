@@ -22,3 +22,7 @@ Nie przeprowadzono wizualnego testu w przeglądarce ani rzeczywistego testu offl
 
 Publikacja — stan 6 listopada 2026, Europe/Warsaw:
 Nie wdrożono publicznie. gh nie jest zalogowany. Brak zainstalowanych i skonfigurowanych CLI Netlify/Surge/Wrangler/Vercel. Przetestowano oficjalny anonimowy Cloudflare Quick Tunnel; przydzielił URL, lecz połączenie z edge nie zostało ustanowione: TLS handshake EOF i błąd DNS. Proces tunelu zatrzymano, nie ma działającego adresu HTTPS. Lokalny HTTP odpowiada 200. Nie utworzono konta, nie odczytywano poświadczeń, nie kontaktowano dostawców.
+
+Aktualizacja: przycisk „Wczytaj testowe zamówienie” oraz adres ?demo=1.
+Kalkulator: kurs waluty (NBP), fracht USD, wybór oferty → PLN.
+RFQ: bez ceny docelowej i uwag wewnętrznych; pole „Uwagi dla dostawcy (EN)”.
